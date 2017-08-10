@@ -195,3 +195,82 @@ http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23252.ts
 http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23253.ts
 #EXTINF:-1,UK | Rangers TV SD (Match Day Only)
 http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/22948.ts
+#EXTINF:-1,UK | RTE 1 HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/741.ts
+#EXTINF:-1,UK | RTE 2 HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/742.ts
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23970.ts
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23969.ts
+#EXTINF:-1,USA | NBC HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23944.ts
+#EXTINF:-1,USA | NBCSN HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23943.ts
+#EXTINF:-1,USA: Tsn Sport 1 HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8293.ts
+#EXTINF:-1,USA: Tsn Sport 2 HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8292.ts
+#EXTINF:-1,USA: Tsn Sport 3 HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8291.ts
+#EXTINF:-1,USA: Tsn Sport 4 HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8290.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8289.ts
+#EXTINF:-1,USA: Tsn Sport 5 HD
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/12547.ts
+#EXTINF:-1,PL | Polsat Sport Extra HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/24072.ts
+#EXTINF:-1,PL | POLSAT SPORTS
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/24038.ts
+#EXTINF:-1,PL | POLSAT SPORTS EXTRA HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/24037.ts
+#EXTINF:-1,=======   BEIN SPORTS   =======
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/2889.ts
+#EXTINF:-1,BEIN SPORTS News (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8300.ts
+#EXTINF:-1,BEIN SPORTS 1 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6959.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6960.ts
+#EXTINF:-1,BEIN SPORTS 3 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6961.ts
+#EXTINF:-1,BEIN SPORTS 4 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6962.ts
+#EXTINF:-1,BEIN SPORTS 5 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6963.ts
+#EXTINF:-1,BEIN SPORTS 6 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6964.ts
+#EXTINF:-1,BEIN SPORTS 7 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6965.ts
+#EXTINF:-1,BEIN SPORTS 8 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6966.ts
+#EXTINF:-1,BEIN SPORTS 9 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6967.ts
+#EXTINF:-1,BEIN SPORTS 10 HD (Arabic)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6968.ts
+#EXTINF:-1,BEIN SPORTS 11 (English)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8299.ts
+#EXTINF:-1,BEIN SPORTS 12 (English)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8298.ts
+#EXTINF:-1,BEIN SPORTS 13 (English)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8297.ts
+#EXTINF:-1,BEIN SPORTS 14 (France)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8296.ts
+#EXTINF:-1,BEIN SPORTS 15 (France)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8295.ts
+#EXTINF:-1,BEIN SPORTS 16 (France)
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8294.ts
+#EXTINF:-1,BEIN SPORTS 1 FR
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8301.ts
+#EXTINF:-1,BEIN SPORTS 2 FR
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8302.ts
+#EXTINF:-1,BEIN SPORTS 3 FR
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8303.ts
+#EXTINF:-1,BEIN SPORTS Max 1
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/15383.ts
+#EXTINF:-1,BEIN SPORTS Max 2
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/15384.ts
+#EXTINF:-1,BEIN SPORTS Max 3
+http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/15385.ts
+
